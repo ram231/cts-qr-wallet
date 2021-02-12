@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "128445143722",
+    "project_id": "ccts-qr-wallet",
+    "storage_bucket": "ccts-qr-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128445143722:android:61b668dd65dd7d0968ced3",
+        "android_client_info": {
+          "package_name": "com.vinceramces.cts_qr_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128445143722-tprctcabcoorv5a430cmf3oocq1jvt5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinceramces.cts_qr_wallet",
+            "certificate_hash": "56ae1864322380908a5f174764e6cd13ee6e2532"
+          }
+        },
+        {
+          "client_id": "128445143722-2sp83au8e34inhshe1p3dc2d1m3leitp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeZ5ADaZYZwXUTDU705zNsSK85fo4PbgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128445143722-2sp83au8e34inhshe1p3dc2d1m3leitp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
